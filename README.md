@@ -1,1 +1,1 @@
-Hi! My name is Rita, I am located in Stockholm, Sweden. My goal with the course is to refresh and update my understanding of spectral flow and to bring the analysis to the R domain. My favorite fluorochrome is PE. What a twist :)
+Hi! My name is Rita, I am located in Stockholm, Sweden. My goal with the course is to refresh and update my understanding of spectral flow and to bring the analysis to the R domain. My favorite fluorochrome is PE. What a twist =)
